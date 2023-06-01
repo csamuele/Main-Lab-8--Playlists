@@ -1,0 +1,3 @@
+C:/Users/wallj/CLionProjects/Main Lab 8 -Playlists/cmake-build-debug/CMakeFiles/Main_Lab_8__Playlists.dir
+C:/Users/wallj/CLionProjects/Main Lab 8 -Playlists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wallj/CLionProjects/Main Lab 8 -Playlists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
